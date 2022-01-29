@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @welchs1423
 - 👀 I started coding in August 2021.
 - I learned ...
-- <img src="https://img.shields.io/badge/Spring?style=flat-square&logo=Spring&logoColor=#6DB33F"/>
+- <img src="https://img.shields.io/badge/Spring-3DDC84?style=flat-square&logo=Spring&logoColor=white"/>
 
 
 
