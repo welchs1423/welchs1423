@@ -1,4 +1,4 @@
-# [본인ID]'s Tech Portfolio 💻
+# [welchs1423]'s Tech Portfolio 💻
 
 ### 🔨 Core Capabilities
 | Category | Technologies |
@@ -19,4 +19,4 @@
 * 매일 README.md 업데이트를 통한 학습 기록 관리
 
 ---
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=본인ID&layout=donut&theme=radical)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=welchs1423&layout=donut&theme=radical)
