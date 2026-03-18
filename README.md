@@ -37,4 +37,4 @@
 📫 **Contact:** [welchs1423@naver.com](mailto:welchs1423@naver.com) | 010-6800-0607
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=본인ID&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=welchs1423&show_icons=true)
