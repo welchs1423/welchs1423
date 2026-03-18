@@ -1,22 +1,21 @@
-# [welchs1423]'s Tech Portfolio 💻
+![header](https://capsule-render.vercel.app/type/waving&color=auto&height=200&section=header&text=Welcome%20to%20My%20World&fontSize=70)
 
-### 🔨 Core Capabilities
-| Category | Technologies |
-| :--- | :--- |
-| **Backend** | Java, Spring Boot, Go, Python, C++ |
-| **Frontend** | React, Svelte, JSP, Nexacro |
-| **Database** | Oracle, PostgreSQL (Docker environment) |
-| **Desktop** | C# WPF (ByeVS-Memo 프로젝트 등) |
-| **DevOps** | Git, Docker, Linux |
+### 🚀 About Me
+분야를 가리지 않고 도전하는 **폴리글랏(Polyglot) 개발자**입니다.
 
-### 📂 Major Projects
-* **Polyglot-Infinity:** Svelte, Go, Python, C++, PostgreSQL 통합 프로젝트
-* **C-Stock:** C언어와 Oracle DB를 연동한 재고 관리 시스템
-* **Text RPG:** C++ 기반의 상점 및 스킬 시스템 구현
+### 🛠 Tech Stacks
+<p align="left">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
+</p>
 
-### 📝 Certification & Study
-* 정보처리기사 자격증 취득 준비 중 ✍️
-* 매일 README.md 업데이트를 통한 학습 기록 관리
+### 📊 GitHub Analysis
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=본인ID&layout=compact&theme=visionary)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=본인ID&theme=visionary)
 
----
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=welchs1423&layout=donut&theme=radical)
+<p align="center">
+  <img src="https://mazipan-github-readme-stats.vercel.app/api/calendar?username=welchs1423">
+</p>
