@@ -25,7 +25,6 @@
 * **자격 사항:** SQLD (SQL 개발자) 보유, 정보처리기사 취득 준비 중
 
 ### 🚀 Toy Projects & Personal Studies
-이미지 기반 최신 리포지토리 목록 (총 10개)
 
 1. **OffHeap-Forge:** JDK 25 FFM API를 활용한 Zero-GC 아키텍처 기반 고성능 오프힙 데이터 엔진
 2. **bytecode-master:** Java Agent와 ByteBuddy를 이용한 JVM 바이트코드 조작 및 런타임 최적화 연구
