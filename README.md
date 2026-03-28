@@ -40,7 +40,7 @@
 ---
 
 #### ✅ Completed (Stable & Built)
-* * **Hello-Slime-Cpp:** C++ 기초 습득을 위한 텍스트 기반 콘솔 RPG 게임(2026-03-28)
+* **Hello-Slime-Cpp:** C++ 기초 습득을 위한 텍스트 기반 콘솔 RPG 게임(2026-03-28)
 * **OffHeap-Forge:** JDK 25 FFM API를 활용한 Zero-GC 아키텍처 기반 고성능 오프힙 데이터 엔진(2026-03-25)
 
 ### 📊 GitHub Stats & Activity
