@@ -30,18 +30,18 @@
 
 * **bytecode-master:** Java Agent와 ByteBuddy를 이용한 JVM 바이트코드 조작 및 런타임 최적화 연구
 * **polyglot-infinity:** Go, Rust, Python, C++ FFI를 결합한 고성능 마이크로서비스 및 성능 최적화 기록
-* **Hello-Slime-Cpp:** C++ 기초 습득을 위한 텍스트 기반 콘솔 RPG 게임
+
 * **CoreGrad:** Python과 NumPy만으로 구현한 딥러닝 자동 미분(Autograd) 엔진
 * **LoanCore:** 금융권 여신 업무를 모사한 대출 심사 시스템 토이 프로젝트 (Spring MVC, JSP)
 * **SpringBoot-React-tutorial:** Spring Boot와 React를 활용한 실시간 알림 및 이벤트 처리 포트폴리오
 * **my-whiteboard:** React와 Konva.js를 활용한 다중 사용자 실시간 협업 화이트보드
 * **c-proframe-oracle-study:** 데이터 무결성과 트랜잭션 처리를 중점으로 둔 C 언어 금융 백엔드 시스템
 * **ByeVS-Memo:** 가벼운 코드 작성에 집중한 C# WPF 기반 메모장 애플리케이션
-
 ---
 
 #### ✅ Completed (Stable & Built)
-* **OffHeap-Forge:** JDK 25 FFM API를 활용한 Zero-GC 아키텍처 기반 고성능 오프힙 데이터 엔진
+* * **Hello-Slime-Cpp:** C++ 기초 습득을 위한 텍스트 기반 콘솔 RPG 게임(2026-03-28)
+* **OffHeap-Forge:** JDK 25 FFM API를 활용한 Zero-GC 아키텍처 기반 고성능 오프힙 데이터 엔진(2026-03-25)
 
 ### 📊 GitHub Stats & Activity
 ![박덕규's GitHub Stats](https://github-readme-stats.vercel.app/api?username=welchs1423&show_icons=true&theme=radical&hide_border=true)
