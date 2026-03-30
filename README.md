@@ -43,7 +43,7 @@
 * **OffHeap-Forge:** JDK 25 FFM API를 활용한 Zero-GC 아키텍처 기반 고성능 오프힙 데이터 엔진(2026-03-25)
 
 ### 📊 GitHub Stats & Activity
-![박덕규's GitHub Stats](https://github-readme-stats.vercel.app/api?username=welchs1423&show_icons=true&theme=radical&hide_border=true)
+![welchs1423's GitHub Stats](https://github-readme-stats.vercel.app/api?username=welchs1423&show_icons=true&theme=radical&hide_border=true)
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=welchs1423&layout=compact&theme=radical&hide_border=true)
 
