@@ -27,10 +27,9 @@
 ### 🚀 Toy Projects & Personal Studies
 
 #### 🔄 In Progress (Ongoing Research)
-
+* **Dev-Dashboard:** Dev Dashboard - Junior Developer Job Curation & Tech Trend Tracker
 * **bytecode-master:** Java Agent와 ByteBuddy를 이용한 JVM 바이트코드 조작 및 런타임 최적화 연구
 * **polyglot-infinity:** Go, Rust, Python, C++ FFI를 결합한 고성능 마이크로서비스 및 성능 최적화 기록
-
 * **CoreGrad:** Python과 NumPy만으로 구현한 딥러닝 자동 미분(Autograd) 엔진
 * **LoanCore:** 금융권 여신 업무를 모사한 대출 심사 시스템 토이 프로젝트 (Spring MVC, JSP)
 * **SpringBoot-React-tutorial:** Spring Boot와 React를 활용한 실시간 알림 및 이벤트 처리 포트폴리오
