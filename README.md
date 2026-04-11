@@ -44,7 +44,7 @@
 
 #### ✅ Completed (Stable & Built)
 * **ByeVS-Memo:** 가벼운 코드 작성에 집중한 C# WPF 기반 메모장 애플리케이션 (2026-04-11)
-* * **polyglot-infinity:** Go, Rust, Python, C++ FFI를 결합한 고성능 마이크로서비스 및 성능 최적화 기록 (2026-04-11)
+* **polyglot-infinity:** Go, Rust, Python, C++ FFI를 결합한 고성능 마이크로서비스 및 성능 최적화 기록 (2026-04-11)
 * **my-whiteboard:** React와 Konva.js를 활용한 다중 사용자 실시간 협업 화이트보드 (2026-04-07)
 * **LoanCore:** 금융권 여신 업무를 모사한 대출 심사 시스템 토이 프로젝트 (Spring MVC, JSP) (2026-04-05)
 * **Hello-Slime-Cpp:** C++ 기초 습득을 위한 텍스트 기반 콘솔 RPG 게임(2026-03-28)
