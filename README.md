@@ -4,7 +4,7 @@
 
 ### 💼 Work Experience
 
-**콜테크솔루션 (CallTech Solution)** | Freelance
+**콜테크솔루션 (CallTech Solution)** | Freelance (2026.05 ~ now)
 * **Java / Spring / Oracle 기반 NS홈쇼핑 주문 시스템 고도화 (2026.05 - Present)**
   - **Java 8 & Spring 3** 기반의 커머스 백엔드 비즈니스 로직 설계 및 실무 요구사항 구현
   - **Oracle 19C** 프로시저 및 쿼리를 활용한 대규모 주문 데이터 처리 및 정합성 관리
@@ -36,14 +36,15 @@
 #### 🔄 In Progress (Ongoing Research)
 * **Dev-Dashboard:** Dev Dashboard - Junior Developer Job Curation & Tech Trend Tracker
 * **bytecode-master:** Java Agent와 ByteBuddy를 이용한 JVM 바이트코드 조작 및 런타임 최적화 연구
-* **polyglot-infinity:** Go, Rust, Python, C++ FFI를 결합한 고성능 마이크로서비스 및 성능 최적화 기록
 * **CoreGrad:** Python과 NumPy만으로 구현한 딥러닝 자동 미분(Autograd) 엔진
 * **SpringBoot-React-tutorial:** Spring Boot와 React를 활용한 실시간 알림 및 이벤트 처리 포트폴리오
 * **c-proframe-oracle-study:** 데이터 무결성과 트랜잭션 처리를 중점으로 둔 C 언어 금융 백엔드 시스템
-* **ByeVS-Memo:** 가벼운 코드 작성에 집중한 C# WPF 기반 메모장 애플리케이션
+
 ---
 
 #### ✅ Completed (Stable & Built)
+* **ByeVS-Memo:** 가벼운 코드 작성에 집중한 C# WPF 기반 메모장 애플리케이션 (2026-04-11)
+* * **polyglot-infinity:** Go, Rust, Python, C++ FFI를 결합한 고성능 마이크로서비스 및 성능 최적화 기록 (2026-04-11)
 * **my-whiteboard:** React와 Konva.js를 활용한 다중 사용자 실시간 협업 화이트보드 (2026-04-07)
 * **LoanCore:** 금융권 여신 업무를 모사한 대출 심사 시스템 토이 프로젝트 (Spring MVC, JSP) (2026-04-05)
 * **Hello-Slime-Cpp:** C++ 기초 습득을 위한 텍스트 기반 콘솔 RPG 게임(2026-03-28)
