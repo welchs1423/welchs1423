@@ -34,6 +34,7 @@
 ### 🚀 Toy Projects & Personal Studies
 
 #### 🔄 In Progress (Ongoing Research)
+* **FlowWeaver:** - Next.js와 Nest.js 기반의 실시간 노드형 DAG 워크플로우 자동화 빌더
 * **Dev-Dashboard:** Dev Dashboard - Junior Developer Job Curation & Tech Trend Tracker
 * **bytecode-master:** Java Agent와 ByteBuddy를 이용한 JVM 바이트코드 조작 및 런타임 최적화 연구
 * **CoreGrad:** Python과 NumPy만으로 구현한 딥러닝 자동 미분(Autograd) 엔진
