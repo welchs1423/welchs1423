@@ -4,7 +4,7 @@
 
 ### 💼 Work Experience
 
-**콜테크솔루션 (CallTech Solution)** | Freelance (2026.05 ~ now)
+**진클라우드(주)** | Freelance (2026.05 ~ now)
 * **Java / Spring / Oracle 기반 NS홈쇼핑 운영 및 개발 (2026.05 - Present)**
   - **Java 8 & Spring 3** 기반의 커머스 백엔드 비즈니스 로직 설계 및 실무 요구사항 구현
   - **Oracle 19C** 프로시저 및 쿼리를 활용한 대규모 주문 데이터 처리 및 정합성 관리
