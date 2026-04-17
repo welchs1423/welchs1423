@@ -34,7 +34,6 @@
 ### 🚀 Toy Projects & Personal Studies
 
 #### 🔄 In Progress (Ongoing Research)
-* **FlowWeaver:** Next.js와 Nest.js 기반의 실시간 노드형 DAG 워크플로우 자동화 빌더
 * **Dev-Dashboard:** Dev Dashboard - Junior Developer Job Curation & Tech Trend Tracker
 * **bytecode-master:** Java Agent와 ByteBuddy를 이용한 JVM 바이트코드 조작 및 런타임 최적화 연구
 * **CoreGrad:** Python과 NumPy만으로 구현한 딥러닝 자동 미분(Autograd) 엔진
@@ -43,6 +42,7 @@
 ---
 
 #### ✅ Completed (Stable & Built)
+* **FlowWeaver:** Next.js와 Nest.js 기반의 실시간 노드형 DAG 워크플로우 자동화 빌더 (2026-04-17)
 * **c-proframe-oracle-study:** 데이터 무결성과 트랜잭션 처리를 중점으로 둔 C 언어 금융 백엔드 시스템 (2026-04-13)
 * **ByeVS-Memo:** 가벼운 코드 작성에 집중한 C# WPF 기반 메모장 애플리케이션 (2026-04-11)
 * **polyglot-infinity:** Go, Rust, Python, C++ FFI를 결합한 고성능 마이크로서비스 및 성능 최적화 기록 (2026-04-11)
